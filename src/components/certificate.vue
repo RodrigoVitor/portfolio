@@ -4,7 +4,7 @@
 
         <div class="container mt-4">
             <div class="row">
-                <div class="col-4">
+                <div class="col-lg-4 col-sm-6">
                     <div class="card" style="width: 14rem;">
                         <img class="card-img-top" src="../assets/js.png" alt="javascript">
                         <p class="mt-2 text-center fw-bold">Javascript</p>
@@ -12,7 +12,7 @@
                         <p class="text-center"><strong>Carga:</strong> 40 horas</p>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-lg-4 col-sm-6">
                     <div class="card" style="width: 14rem;">
                         <img src="../assets/php.png" alt="PHP POO">
                         <p class="mt-2 text-center fw-bold"> PHP POO</p>
@@ -20,7 +20,7 @@
                         <p class="text-center"><strong>Carga:</strong> 40 horas</p>
                     </div> 
                 </div>
-                <div class="col-4">
+                <div class="col-lg-4 col-sm-6">
                     <div class="card" style="width: 14rem;">
                         <img src="../assets/laravel.png" alt="Larvel">
                         <p class="mt-2 text-center fw-bold"> Laravel</p>
@@ -28,7 +28,7 @@
                         <p class="text-center"><strong>Carga:</strong> 40 horas</p>
                     </div>
                 </div>
-                <div class="col-4 mt-5">
+                <div class="col-lg-4 mt-5 col-sm-6">
                     <div class="card" style="width: 14rem;">
                         <img src="../assets/Mysql.png" alt="">
                         <p class="mt-2 text-center fw-bold"> MySql</p>
@@ -37,7 +37,7 @@
                     </div>
                 </div>
                 <!--  -->
-                <div class="col-4 mt-5">
+                <div class="col-lg-4 mt-5 col-sm-6">
                     <div class="card" style="width: 14rem;">
                          <img src="../assets/fcss.png" alt="Materialize">
                         <p class="mt-2 text-center fw-bold"> Materialize</p>
@@ -45,11 +45,12 @@
                         <p class="text-center"><strong>Carga:</strong> 40 horas</p>
                     </div>
                 </div>
-                <div class="col-3 mt-5">
+                <div class="col-lg-3 mt-5 col-sm-6" >
                     <div class="card" style="width: 14rem;">
-                        <img src="../assets/py.png" alt="python">
-                        <p class="mt-2 text-center fw-bold">Python 3</p>
-                        <a class="text-center" href="#">Em breve</a>
+                        <img src="../assets/vue.png" alt="Vue.js">
+                        <p class="mt-2 text-center fw-bold"> Vue.js Básico</p>
+                        <p class="text-center"><strong>Instituição:</strong> João Ribeiro </p>
+                        <p class="text-center"><strong>Carga:</strong> 10 horas</p>
                     </div>  
                 </div>
             </div>
